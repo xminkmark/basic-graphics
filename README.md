@@ -8,6 +8,6 @@ Slab method is used to detect the intersection of the **bounding box** and the *
 
 In this code, `AABB_is_hit_ray` and `AABB_is_hit_segment` functions are major algorithm (They are pretty the same), I use C/C++ and CGAL to create **Segment**, **Ray**, **AABB** and etc, use OpenGL to display the above geometry:
 
-![](\AABB-ray_segment-slab-method\display.png)
+![](.\AABB-ray_segment-slab-method\display.png)
 
 
