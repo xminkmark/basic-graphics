@@ -1,6 +1,8 @@
 # SAT - Separating Axes Theorem
 
-This algorithm is used to quickly determine the intersection of a cube and a triangle face.
+This algorithm is used to quickly determine the intersection of a cube and a triangle face. 
+
+In this code, `I did not add other third-party libraries except the OpenGL library`. 
 
 As follows(`red` is cube, `blue` is triangle intersects cube, `white` is triangle that does not intersect with cube):
 
