@@ -1,6 +1,6 @@
-# SAT - Separating Axes Theorem
+# SAT - Separating Axes Theorem (Take cubes and triangles as an example)
 
-This algorithm is used to quickly determine the intersection of a cube and a triangle face. 
+This algorithm is used to quickly determine the intersection of a cube and a triangle face. `In fact, SAT can be used to judge the intersection of many polygons`.
 
 In this code, `I did not add other third-party libraries except the OpenGL library`. 
 
